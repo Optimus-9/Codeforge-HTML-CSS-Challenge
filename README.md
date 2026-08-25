@@ -1,5 +1,5 @@
 # Codeforge-HTML-CSS-Challenge
-Basic landing page of an Internship and Job search website.
+<br>Basic landing page of an Internship and Job search website.<br>
 Contributors:
   Sushovan Baksi
   Siddharth Nigam
